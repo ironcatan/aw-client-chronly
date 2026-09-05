@@ -1,5 +1,10 @@
-aw-client
+aw-client (Chronly fork)
 =========
+
+**This is Chronly's client library, a private fork of ActivityWatch's
+`aw-client`, maintained by Manuel Arroyo Algar. Not affiliated with or
+endorsed by the ActivityWatch project.** Licensed under MPLv2, same as
+upstream. No code changes — forked for completeness/independence.
 
 [![GitHub Actions badge](https://github.com/ActivityWatch/aw-client/workflows/Build/badge.svg)](https://github.com/ActivityWatch/aw-client/actions)
 [![PyPI](https://img.shields.io/pypi/v/aw-client)](https://pypi.org/project/aw-client/)
